@@ -8,6 +8,3 @@
 - HTML | CSS | JavaScript
 - React | Node.js | Express | MongoDB
 - Git & GitHub
-
-## 📈 GitHub Stats
-![Ujjawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjawalrajput&show_icons=true&theme=radical)
