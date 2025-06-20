@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Ujjawal 👋
 
-<!--
-**Ujjawalrajput-it/Ujjawalrajput-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack  
+💡 Passionate about clean code, fast UIs, and meaningful projects  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/your-profile)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML | CSS | JavaScript
+- React | Node.js | Express | MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ujjawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjawalrajput&show_icons=true&theme=radical)
